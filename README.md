@@ -1,4 +1,8 @@
-# Base layout template with Gulp, SCSS and Stylelint
-1. Create a repo using this template
-1. Replace `<your_account>` and `<repo_name>` with your Github username and the new repo name
-    - [DEMO LINK](https://<your_account>.github.io/<repo_name>/)
+# Landing page The MET
+
+Landing page of the Metropolitan Museum of Art.
+
+Technologies: HTML, CSS (SASS), BEM, JS
+
+DESIGN:
+- [DEMO LINK](https://yura-enttsel.github.io/The-MAT-landing/#)
